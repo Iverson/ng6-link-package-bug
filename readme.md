@@ -7,6 +7,7 @@ Reproduction example for the [issue](https://github.com/angular/angular-cli/issu
 1. Just copy local package to `node_modules` and run CLI serve command:
 ```
 cd ng6
+yarn
 cp -r ../linked-package/ node_modules/linked-package
 ng serve
 ```
